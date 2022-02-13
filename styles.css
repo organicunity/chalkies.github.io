@@ -71,12 +71,13 @@ html {
 /*
  * Addresses font-family inconsistency between 'textarea' and other form elements.
  */
+body,
 html,
 button,
 input,
 select,
 textarea {
-  font-family: sans-serif;
+    font-family: 'Brush Script MT', cursive;
 }
 
 /*
@@ -456,7 +457,7 @@ table {
 }
 
 body {
-  font: 14px/22px sans-serif;
+  font: 14px/22px 'Brush Script MT', cursive;
   color: #ffffff;
   margin: 0px;
   padding: 0px 0 20px 0px;
@@ -628,7 +629,7 @@ header {
   min-height: 76px;
 }
 header h1 a{
-  font: 40px/48px sans-serif;
+  font: 40px/48px 'Brush Script MT', cursive;
   color: #f3f3f3;
   text-shadow: 0px 2px 0px #6d2754;
   margin: 0px;
