@@ -23,12 +23,15 @@
       {% endif %}
    </div>
    <script>
-     anchors.options = {
-         icon: '#',
-         truncat: 24,
-         visible: 'touch'
-     }
-     anchors.add('section h1, section h2');
+     // Add anchors on DOMContentLoaded
+     document.addEventListener('DOMContentLoaded', function(event) {
+         anchors.options = {
+             icon: '#',
+             truncate: 16,
+             visible: 'hover'
+         }
+         anchors.add('section h1, section h2');
+     });
    </script>
 </body>
 </html>
