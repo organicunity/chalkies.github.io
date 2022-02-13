@@ -1,0 +1,8 @@
+server: true
+page_title: "Chalkies FAQ"
+title: "Chalkies FAQ"
+repository_url: https://github.com/chalkies/chalkies.github.io/
+permalink: pretty
+markdown: kramdown
+plugins:
+  - jekyll-redirect-from
