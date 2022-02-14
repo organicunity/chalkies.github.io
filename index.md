@@ -41,7 +41,8 @@ Email your post to [sfchalkboard@lists.riseup.net](mailto:sfchalkboard@lists.ris
 When replying to posts:
 * If you reply to a message using digest mode, please try to edit the quote text and subject
 * If you want to reply to the author of a message, please remove the list address first.
-* If the reply content is relevant to the entire list, please address the person + the entire list which supports coziness and keeps it from appearing like a conversation between two people. For example: "Becca & Chalkies. Becca, I wanted to respond to your post and yes all collectives, co-ops and community minded individuals are welcome to attend the gathering,...here’s the rest of the details..."
+* If the reply content is relevant to the entire list, please address the person + the entire list which supports coziness and keeps it from appearing like a conversation between two people. For example:
+    > Becca & Chalkies. Becca, I wanted to respond to your post and yes all collectives, co-ops and community minded individuals are welcome to attend the gathering,...here’s the rest of the details...
 * Riseup has a bug which fails to display the author's email address in some cases - digest users will not be able to see it, and the web archives will not show it either. We have reported this bug to riseup, but they will probably take a very long time to fix it. Sorry! If you're a digest user and you want to send a private reply, send it to [sfchalkboard-editors](mailto:sfchalkboard-editors@lists.riseup.net) and the moderators will put you in touch.
 
 # What to post
