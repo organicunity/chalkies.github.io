@@ -26,17 +26,17 @@ Nope! The list is for anybody interested in living in an inclusive and supportiv
 
 The moderators are: [yar](https://yar.gay/), etc
 
-The server host is [https://riseup.net/](riseup). Their computers send and receive mail using an old version of [https://sympa-community.github.io/](sympa).
+The server host is [riseup](https://riseup.net/). Their computers send and receive mail using an old version of [sympa](https://sympa-community.github.io/).
 
-# How do I post?
+# How to post
 
 Email your post to [sfchalkboard@lists.riseup.net](mailto:sfchalkboard@lists.riseup.net)
-* '''Double check''' the address! A common mistake is to send to "sfchalkboard-request", which won't go to the list.
-* Write a '''descriptive subject''' - let us know what your post will be about. For example, "Looking for a room in Oakland with queer friendly vegan punks"
-* Write a '''full email body''' including all the relevant content. Posts without much more than a link will be rejected!
-* '''Address the Chalkies group''' in your message body - this discourages cross-posting and keeps content unique and personalized
-* '''No large attachments'''
-* '''Room openings''' must include full cost of the room (rent, utilities, and any other mandatory costs) in the subject line - see [below](#Rooms)
+* **Double check** the address! A common mistake is to send to "sfchalkboard-request", which won't go to the list.
+* Write a **descriptive subject** - let us know what your post will be about. For example, "Looking for a room in Oakland with queer friendly vegan punks"
+* Write a **full email body** including all the relevant content. Posts without much more than a link will be rejected!
+* **Address the Chalkies group** in your message body - this discourages cross-posting and keeps content unique and personalized
+* **No large attachments**
+* **Room openings** must include full cost of the room (rent, utilities, and any other mandatory costs) in the subject line - see [below](#rooms)
 
 When replying to posts:
 * If you reply to a message using digest mode, please try to edit the quote text and subject
@@ -44,7 +44,7 @@ When replying to posts:
 * If the reply content is relevant to the entire list, please address the person + the entire list which supports coziness and keeps it from appearing like a conversation between two people. For example: "Becca & Chalkies. Becca, I wanted to respond to your post and yes all collectives, co-ops and community minded individuals are welcome to attend the gathering,...here’s the rest of the details..."
 * Riseup has a bug which fails to display the author's email address in some cases - digest users will not be able to see it, and the web archives will not show it either. We have reported this bug to riseup, but they will probably take a very long time to fix it. Sorry! If you're a digest user and you want to send a private reply, send it to [sfchalkboard-editors](mailto:sfchalkboard-editors@lists.riseup.net) and the moderators will put you in touch.
 
-# What can I post?
+# What to post
 
 * Room openings
 * Community events
@@ -54,7 +54,7 @@ When replying to posts:
 
 Examples of a good post:
 * "Hi SFChalkboard, There's a room available in our co-op starting May 15th…"
-* "Hi Chalkies, our co-op is offering a _________ workshop, its a 15.00 suggested donation for materials but no one will be turned away for lack of funds, here are all of the logistics and details"
+* "Hi Chalkies, our co-op is offering a \_\_\_\_\_\_\_\_\_ workshop, its a 15.00 suggested donation for materials but no one will be turned away for lack of funds, here are all of the logistics and details"
 * "Chalkboard community - there’s this protest in SF downtown tomorrow. We’d love your support, here are all of the logistics and details."
 * "Hi Chalk board friends, I’d like to trade my car for a bicycle, i’m also willing to consider hours trades from folks on timebank.sfbace.org or earn.timebanks.org…"
 * "Hello Lovely Chalkies, I’m wanting to start a new co-op housing in San Francisco with a group of mindful people…, contact me directly and let’s see how we can make use of our resources to co-create..."

@@ -10,14 +10,14 @@ header {
     text-align: center;
 }
 a, a:hover, a:active, a:focus, a:link, a:visited {
-    color: #fdfd96;
+    color: #F8C8DC;
     font-weight: 400;
     text-decoration: none;
 }
 a:hover, a:focus {
-    color: ##F8C8DC;
+    color: #fdfd96;
 }
-h1, h1 a {
+h1, h1 a, h1 a:hover {
     color: #fdfd96;
     font-family: 'Recursive', sans-serif;
     margin: 0px;
@@ -38,9 +38,6 @@ section h1 {
     margin: 0 0 10px;
     overflow: hidden;
     white-space: nowrap;
-}
-section h1:nth-of-type(even) {
-    color: #F8C8DC;
 }
 section.content {
     padding: 20px 30px 50px 30px;
