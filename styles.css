@@ -29,6 +29,10 @@ header p {
     font-size: 18px;
     color: #F8C8DC;
 }
+div.wrapper {
+    width:650px;
+    margin: 0 auto;
+}
 section h1 {
     font-size: 28px;
     margin: 0 0 10px;
@@ -44,5 +48,9 @@ section.content {
 @media print, screen and (max-width: 720px) {
     header {
         padding: 20px;
+    }
+    div.wrapper {
+        width:auto;
+        margin: 0;
     }
 }
