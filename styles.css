@@ -51,3 +51,18 @@ section.content {
         margin: 0;
     }
 }
+::-webkit-scrollbar {
+    width: 15px;
+}
+::-webkit-scrollbar-track {
+    background-color: #31343a;
+}
+::-webkit-scrollbar-track:hover {
+    background-color: #373a40;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #43464c;
+}
+::-webkit-scrollbar-thumb:hover {
+    background-color: #5e6168;
+}
