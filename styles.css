@@ -4,8 +4,8 @@
     --grey-light: #43464c;
     --grey-lighter: #373a40;
     --grey-lightest: #5e6168;
-    --pastel-blue: #AEC6CF;
-    --pastel-green: #5e6168;
+    --pastel-blue: #51d0ff;
+    --pastel-green: #77dd77;
     --pastel-pink: #F8C8DC;
     --pastel-yellow: #fdfd96;
 }
@@ -20,7 +20,12 @@ header {
     padding: 25px 20px 40px 20px;
     text-align: center;
 }
-a, a:hover, a:active, a:focus, a:link, a:visited {
+a,
+a:active,
+a:focus,
+a:hover,
+a:link,
+a:visited {
     color: var(--pastel-blue);
     font-weight: 400;
     text-decoration: none;
@@ -28,7 +33,13 @@ a, a:hover, a:active, a:focus, a:link, a:visited {
 a:hover, a:focus {
     color: var(--pastel-blue);
 }
-h1, h1 a, h1 a:hover {
+h1,
+h1 a,
+h1 a:active,
+h1 a:focus,
+h1 a:hover,
+h1 a:link,
+h1 a:visited {
     color: var(--pastel-yellow);
     font-family: 'Recursive', sans-serif;
     margin: 0px;
@@ -43,6 +54,14 @@ header p {
 div.wrapper {
     width:650px;
     margin: 0 auto;
+}
+section h1 a,
+section h1 a:active,
+section h1 a:focus,
+section h1 a:hover,
+section h1 a:link,
+section h1 a:visited {
+    color: inherit;
 }
 section h1 {
     font-size: 28px;
