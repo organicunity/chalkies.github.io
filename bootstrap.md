@@ -4,17 +4,13 @@ content_type: md
 tagline: All you need to know about SF Chalkboard
 ---
 
-# Is the bootstrap test working?
-
-Apparently
-
 # What is sfchalkboard?
 
 A mailing list for cooperative living in the San Francisco bay area
 
 # How do I join?
 
-Go to https://lists.riseup.net/www/info/sfchalkboard
+Log into riseup, go to [https://lists.riseup.net/www/info/sfchalkboard](our page), click subscribe
 
 # What's a chalky?
 
