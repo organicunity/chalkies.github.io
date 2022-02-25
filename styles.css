@@ -6,8 +6,10 @@
     --grey-lightest: #5e6168;
     --pastel-blue: #51d0ff;
     --pastel-green: #77dd77;
-    --pastel-pink: #F8C8DC;
+    --pastel-pink: #ff7def;
+    --pastel-pink-old: #F8C8DC;
     --pastel-yellow: #fdfd96;
+    --hotter-pink: #ffaff5;
 }
 body {
     font: 14px/22px sans-serif;
@@ -29,9 +31,6 @@ a:visited {
     color: var(--pastel-blue);
     font-weight: 400;
     text-decoration: none;
-}
-a:hover, a:focus {
-    color: var(--pastel-blue);
 }
 h1,
 h1 a,
@@ -86,6 +85,9 @@ blockquote {
     border-width: 0px;
     border-left: 10px solid var(--grey-light);
     padding: 0px 0px 0px 10px;
+    font-family: "Lucida Console", Monaco, "Courier New", monospace;
+    font-size: larger;
+    color: var(--pastel-pink);
 }
 @media print, screen and (max-width: 720px) {
     header {
