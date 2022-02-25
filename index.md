@@ -54,21 +54,21 @@ When replying to posts:
 * Resources, skillshares
 
 Examples of a good post:
-    > Chalkboard community - there’s this protest in SF downtown tomorrow. We’d love your support, here are all of the logistics and details.
+> Chalkboard community - there’s this protest in SF downtown tomorrow. We’d love your support, here are all of the logistics and details.
 
 # Monie$
 
 The list accepts posts regarding goods, workshops & events that cost money, as long as money alternatives are offered, ie: work trade, no one turned away for lack of funds, suggested donation, trade/barter. For example:
-    > Hi Chalkies, our co-op is offering a \_\_\_\_\_\_\_\_\_ workshop, its a 15.00 suggested donation for materials but no one will be turned away for lack of funds, here are all of the logistics and details
+> Hi Chalkies, our co-op is offering a \_\_\_\_\_\_\_\_\_ workshop, its a 15.00 suggested donation for materials but no one will be turned away for lack of funds, here are all of the logistics and details
 
-    > Hi Chalk board friends, I’d like to trade my car for a bicycle, i’m also willing to consider hours trades from folks on timebank.sfbace.org or earn.timebanks.org…
+> Hi Chalk board friends, I’d like to trade my car for a bicycle, i’m also willing to consider hours trades from folks on timebank.sfbace.org or earn.timebanks.org…
 Posts that are clearly for profit or promoting a for-profit activity (of either a business or individual) AND/OR do not offer any of the above payment options will be declined.
 
 # Rooms
 
-    > Hi SFChalkboard, There's a room available in our co-op starting May 15th…
+> Hi SFChalkboard, There's a room available in our co-op starting May 15th…
 
-    > Hello Lovely Chalkies, I’m wanting to start a new co-op housing in San Francisco with a group of mindful people…, contact me directly and let’s see how we can make use of our resources to co-create...
+> Hello Lovely Chalkies, I’m wanting to start a new co-op housing in San Francisco with a group of mindful people…, contact me directly and let’s see how we can make use of our resources to co-create...
 
 SFChalkboard is for intentional, cooperative, community-style housing and co-operatives. Housing posts can include anything from a shared one bedroom to a million people collective, as long as there is an intention of fostering relationships and some form of communal living. SFChalkboard is committed to radical inclusivity and posts that are discriminatory will be rejected from the list
 
@@ -97,16 +97,16 @@ Giving away stuff is cool.
 Requesting specific stuff is cool for for a community project, but not for a personal project (please make the difference clear for the mods who are reviewing your message).
 
 The kinds of posts that would ***NOT*** meet these criteria:
-    > I’m a photographer specializing in nudes and am expanding my services to include pets. I offer very low rates for chalksters. Please call me to arrange an appointment.
+> I’m a photographer specializing in nudes and am expanding my services to include pets. I offer very low rates for chalksters. Please call me to arrange an appointment.
 
-    > I’m unemployed, attached is my resume, I’m willing to work for minimum wage.
+> I’m unemployed, attached is my resume, I’m willing to work for minimum wage.
 
-    > I need​ some canning supplies. Anyone have any they want to give away?
+> I need​ some canning supplies. Anyone have any they want to give away?
 
 What would be OK:
-    > Food Not Bombs needs some canning supplies.
+> Food Not Bombs needs some canning supplies.
 
-    > Does anyone know of a local resource for low-cost or free canning supplies?
+> Does anyone know of a local resource for low-cost or free canning supplies?
 
 EXCEPTION: Since there are many list members with businesses, and other list members who may want to support these businesses, each business is allowed ONE commercial post, ever. It can't sound like an ad. This is an experimental policy and if the Chalk starts to sound like Indie Craigslist, it will be rethought.
 
