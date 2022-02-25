@@ -116,5 +116,4 @@ As of February 2022, there are ~3400 subscribers
 
 # Who made this website?
 
-The source code is [on github](https://github.com/chalkies/chalkies.github.io) and you can view the [contributers list](https://github.com/chalkies/chalkies.github.io/graphs/contributors).
-
+The source code is [on github](https://github.com/chalkies/chalkies.github.io) and you can view the [contributers list](https://github.com/chalkies/chalkies.github.io/graphs/contributors). Anybody can edit [edit this webpage](https://github.com/chalkies/chalkies.github.io/edit/main/index.md). You don't need to understand git or html, only [markdown](https://www.markdownguide.org/basic-syntax) and a [github account](https://github.com/login).
