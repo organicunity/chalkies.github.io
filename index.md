@@ -33,7 +33,7 @@ The server host is [riseup](https://riseup.net/). Their computers send and recei
 Email your post to [sfchalkboard@lists.riseup.net](mailto:sfchalkboard@lists.riseup.net)
 * **Double check** the address! A common mistake is to send to "sfchalkboard-request", which won't go to the list.
 * Write a **descriptive subject** - let us know what your post will be about. For example, "Looking for a room in Oakland with queer friendly vegan punks"
-* Write a **full email body** including all the relevant content. Posts without much more than a link will be rejected!
+* Write a **full email body** including all relevant content. Posts without much more than a link will be rejected!
 * **Address the Chalkies group** in your message body - this discourages cross-posting and keeps content unique and personalized
 * **No large attachments**
 * **Room openings** must include full cost of the room (rent, utilities, and any other mandatory costs) in the subject line - see [below](#rooms)
