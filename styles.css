@@ -1,4 +1,6 @@
 :root {
+    --font-decor: 'Recursive', sans-serif;
+    --font-mono: "Lucida Console", Monaco, "Courier New", monospace;
     --text-white: #ffffff;
     --grey-bg: #31343a;
     --grey-light: #43464c;
@@ -10,6 +12,8 @@
     --pastel-pink-old: #F8C8DC;
     --pastel-yellow: #fdfd96;
     --hotter-pink: #ffaff5;
+    --cross-red: #e91515;
+    --cross-mark: '\274C';
 }
 body {
     font: 14px/22px sans-serif;
@@ -40,7 +44,7 @@ h1 a:hover,
 h1 a:link,
 h1 a:visited {
     color: var(--pastel-yellow);
-    font-family: 'Recursive', sans-serif;
+    font-family: var(--font-decor);
     margin: 0px;
 }
 header h1 {
@@ -85,9 +89,27 @@ blockquote {
     border-width: 0px;
     border-left: 10px solid var(--grey-light);
     padding: 0px 0px 0px 10px;
-    font-family: "Lucida Console", Monaco, "Courier New", monospace;
+    font-family: var(--font-mono);
     font-size: larger;
     color: var(--pastel-pink);
+}
+blockquote.dont p::after {
+    content: var(--cross-mark);
+    color: var(--text-white);
+    background-color: var(--cross-red);
+    font-weight: 900;
+    font-size: 15px;
+    font-family: var(--font-decor);
+    width: 20px;
+    height: 20px;
+    margin: auto;
+    padding: 0px;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    line-height: unset;
+    position: relative;
+    border-radius: 10px;
 }
 @media print, screen and (max-width: 720px) {
     header {
