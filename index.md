@@ -97,11 +97,14 @@ Giving away stuff is cool.
 Requesting specific stuff is cool for for a community project, but not for a personal project (please make the difference clear for the mods who are reviewing your message).
 
 These would ***NOT*** be ok:
-> I’m a photographer specializing in nudes and am expanding my services to include pets. I offer very low rates for chalksters. Please call me to arrange an appointment. {:.dont}
+> I’m a photographer specializing in nudes and am expanding my services to include pets. I offer very low rates for chalksters. Please call me to arrange an appointment.
+{:.dont}
 
-> I’m unemployed, attached is my resume, I’m willing to work for minimum wage. {:.dont}
+> I’m unemployed, attached is my resume, I’m willing to work for minimum wage.
+{:.dont}
 
-> I need some canning supplies. Anyone have any they want to give away? {:.dont}
+> I need some canning supplies. Anyone have any they want to give away?
+{:.dont}
 
 These would be OK:
 > Food Not Bombs needs some canning supplies.
