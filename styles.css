@@ -12,6 +12,8 @@
     --pastel-pink-old: #F8C8DC;
     --pastel-yellow: #fdfd96;
     --hotter-pink: #ffaff5;
+    --check-green: var(--pastel-green);
+    --check-mark: '\2713';
     --cross-red: #e91515;
     --cross-mark: '\274C';
 }
@@ -93,16 +95,16 @@ blockquote {
     font-size: larger;
     color: var(--pastel-pink);
 }
+blockquote.do p::after,
 blockquote.dont p::after {
-    content: var(--cross-mark);
     color: var(--text-white);
-    background-color: var(--cross-red);
     font-weight: 900;
     font-size: 15px;
     font-family: var(--font-decor);
     width: 20px;
     height: 20px;
     margin: auto;
+    margin-left: 7px;
     padding: 0px;
     text-align: center;
     vertical-align: middle;
@@ -110,6 +112,14 @@ blockquote.dont p::after {
     line-height: unset;
     position: relative;
     border-radius: 10px;
+}
+blockquote.do p::after {
+    content: var(--check-mark);
+    background-color: var(--check-green);
+}
+blockquote.dont p::after {
+    content: var(--cross-mark);
+    background-color: var(--cross-red);
 }
 @media print, screen and (max-width: 720px) {
     header {

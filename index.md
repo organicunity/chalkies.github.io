@@ -43,6 +43,7 @@ When replying to posts:
 * If you want to reply to the author of a message, please remove the list address first.
 * If the reply content is relevant to the entire list, please address the person + the entire list which supports coziness and keeps it from appearing like a conversation between two people. For example:
     > Becca & Chalkies. Becca, I wanted to respond to your post and yes all collectives, co-ops and community minded individuals are welcome to attend the gathering,...here’s the rest of the details...
+    {:.do}
 * Riseup has a bug which fails to display the author's email address in some cases - digest users will not be able to see it, and the web archives will not show it either. We have reported this bug to riseup, but they will probably take a very long time to fix it. Sorry! If you're a digest user and you want to send a private reply, send it to [sfchalkboard-editors](mailto:sfchalkboard-editors@lists.riseup.net) and the moderators will put you in touch.
 
 # What to post
@@ -55,21 +56,23 @@ When replying to posts:
 
 Examples of a good post:
 > Chalkboard community - there’s this protest in SF downtown tomorrow. We’d love your support, here are all of the logistics and details.
+{:.do}
 
 # Monie$
 
 The list accepts posts regarding goods, workshops & events that cost money, as long as money alternatives are offered, ie: work trade, no one turned away for lack of funds, suggested donation, trade/barter. For example:
 > Hi Chalkies, our co-op is offering a \_\_\_\_\_\_\_\_\_ workshop, its a 15.00 suggested donation for materials but no one will be turned away for lack of funds, here are all of the logistics and details
-
+{:.do}
 > Hi Chalk board friends, I’d like to trade my car for a bicycle, i’m also willing to consider hours trades from folks on timebank.sfbace.org or earn.timebanks.org…
+{:.do}
 Posts that are clearly for profit or promoting a for-profit activity (of either a business or individual) AND/OR do not offer any of the above payment options will be declined.
 
 # Rooms
 
 > Hi SFChalkboard, There's a room available in our co-op starting May 15th…
-
+{:.do}
 > Hello Lovely Chalkies, I’m wanting to start a new co-op housing in San Francisco with a group of mindful people…, contact me directly and let’s see how we can make use of our resources to co-create...
-
+{:.do}
 SFChalkboard is for intentional, cooperative, community-style housing and co-operatives. Housing posts can include anything from a shared one bedroom to a million people collective, as long as there is an intention of fostering relationships and some form of communal living. SFChalkboard is committed to radical inclusivity and posts that are discriminatory will be rejected from the list
 
 The kinds of posts that would not meet these criteria:
@@ -108,9 +111,9 @@ These would ***NOT*** be ok:
 
 These would be OK:
 > Food Not Bombs needs some canning supplies.
-
+{:.do}
 > Does anyone know of a local resource for low-cost or free canning supplies?
-
+{:.do}
 EXCEPTION: Since there are many list members with businesses, and other list members who may want to support these businesses, each business is allowed ONE commercial post, ever. It can't sound like an ad. This is an experimental policy and if the Chalk starts to sound like Indie Craigslist, it will be rethought.
 
 # How many chalkies are there?
