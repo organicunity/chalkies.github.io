@@ -18,6 +18,9 @@ uU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
       <h1><a href="/">{{ site.title }}</a></h1>
       <p>{{ page.tagline }}</p>
    </header>
+   <div class="toc">
+     {% include toc.html html=content %}
+   </div>
    <div class="wrapper">
       {% if page.content_type && page.content_type != "html" %}
         <section class="content">

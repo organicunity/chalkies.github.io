@@ -121,6 +121,9 @@ blockquote.dont p::after {
     content: var(--cross-mark);
     background-color: var(--cross-red);
 }
+div.toc {
+    display: none;
+}
 @media print, screen and (max-width: 720px) {
     header {
         padding: 20px;
