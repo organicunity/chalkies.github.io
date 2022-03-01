@@ -6,6 +6,7 @@
     --grey-light: #43464c;
     --grey-lighter: #373a40;
     --grey-lightest: #5e6168;
+    --grey-lighter-still: #8d959d;
     --pastel-blue: #51d0ff;
     --pastel-green: #77dd77;
     --pastel-pink: #ff7def;
@@ -16,6 +17,9 @@
     --check-mark: '\2713';
     --cross-red: #e91515;
     --cross-mark: '\274C';
+    --width-nav: 150px;
+    --width-main: 500px;
+    --width-scroll: 15px;
 }
 body {
     font: 14px/22px sans-serif;
@@ -57,7 +61,7 @@ header p {
     color: var(--pastel-green);
 }
 div.wrapper {
-    width:650px;
+    width:var(--width-main);
     margin: 0 auto;
 }
 section h1 a,
@@ -84,7 +88,7 @@ section h1:nth-of-type(3n) {
     color: var(--pastel-yellow);
 }
 section.content {
-    padding: 20px 30px 50px 30px;
+    padding: 20px 0 50px 0;
 }
 blockquote {
     margin: 20px 30px 20px 30px;
@@ -122,19 +126,42 @@ blockquote.dont p::after {
     background-color: var(--cross-red);
 }
 div.toc {
-    display: none;
+    position: fixed;
+    bottom: 0;
+    margin: 10px 0;
+    padding: 0;
+    width: var(--width-nav);
+    overflow: auto;
+    max-height: calc(100% - 20px);
 }
-@media print, screen and (max-width: 720px) {
+div.toc ul {
+    margin: 0;
+    padding: 0 0 0 10px;
+}
+div.toc ul li {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+div.toc ul li a {
+    color: var(--grey-lighter-still);
+}
+@media print, screen and (max-width: calc(var(--width-main) + var(--width-scroll))) {
     header {
-        padding: 20px;
+        padding: 5px;
     }
     div.wrapper {
         width:auto;
         margin: 0;
     }
 }
+@media print, screen and (max-width: calc(var(--width-main) + var(--width-nav) + var(--width-nav))) {
+    div.toc {
+        display: none;
+    }
+}
 ::-webkit-scrollbar {
-    width: 15px;
+    width: var(--width-scroll);
 }
 ::-webkit-scrollbar-track {
     background-color: var(--grey-bg);
