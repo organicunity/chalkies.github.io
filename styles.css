@@ -63,7 +63,7 @@ header p {
 div.wrapper {
     width:var(--width-main);
     margin: 0 auto;
-    padding: 0 10px;
+    padding: 0;
 }
 section h1 a,
 section h1 a:active,
@@ -154,6 +154,7 @@ div.toc ul li a {
     div.wrapper {
         width:auto;
         margin: 0;
+        padding: 30px;
     }
 }
 @media print, screen and (max-width: 800px) { /* 500 (width-main) + 2 * 150 (width-nav) */
