@@ -146,7 +146,7 @@ div.toc ul li {
 div.toc ul li a {
     color: var(--grey-lighter-still);
 }
-@media print, screen and (max-width: calc(var(--width-main) + var(--width-scroll))) {
+@media print, screen and (max-width: 515px) { /* 500 (width-main) + 15 (width-scroll) */
     header {
         padding: 5px;
     }
@@ -155,7 +155,7 @@ div.toc ul li a {
         margin: 0;
     }
 }
-@media print, screen and (max-width: calc(var(--width-main) + var(--width-nav) + var(--width-nav))) {
+@media print, screen and (max-width: 800px) { /* 500 (width-main) + 2 * 150 (width-nav) */
     div.toc {
         display: none;
     }
