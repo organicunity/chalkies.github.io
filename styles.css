@@ -63,6 +63,7 @@ header p {
 div.wrapper {
     width:var(--width-main);
     margin: 0 auto;
+    padding: 0 10px;
 }
 section h1 a,
 section h1 a:active,
