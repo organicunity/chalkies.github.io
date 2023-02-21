@@ -46,6 +46,16 @@ When replying to posts:
     {:.do}
 * Riseup has a bug which fails to display the author's email address in some cases - digest users will not be able to see it, and the web archives will not show it either. We have reported this bug to riseup, but they will probably take a very long time to fix it. Sorry! If you're a digest user and you want to send a private reply, send it to [sfchalkboard-editors](mailto:sfchalkboard-editors@lists.riseup.net) and the moderators will put you in touch.
 
+# Will people know who I am?
+
+Yes! It's an email list. Your name and email will be at the top.
+
+If you'd like to post anonymously, [contact a mod](# Who runs it?) and one of us can send it for you. Or you can just say at the top of your email that you want to be anonymous. Then a mod can copy the text of your message and then reject the original.
+
+# Can I delete a post?
+
+No, sorry. We can delete it from the archives, but once everybody has received the email, we cannot delete it from their inboxes.
+
 # What to post
 
 * Room openings
