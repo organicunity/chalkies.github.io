@@ -96,6 +96,8 @@ If you're a house looking for people:
 * you should tell us the move-in dates (and move-out, if subletting)
 * you should include all this info in your actual email, not just link to an external/craigslist post
 
+If you're a person looking for a house, we are way more chill about these things, because that's hard enough already.
+
 # Jobs
 
 if you're posting a job opportunity:
