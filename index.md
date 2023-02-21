@@ -106,7 +106,7 @@ if you're posting a job opportunity:
 
 We do accept postings for work trade, internships, and other positions which don't involve a conventional paycheck, but workers must still be compensated fairly in some way - college credit, workshop participation, stock options, use your imagination. Exceptions are often made for jobs where you, the poster, don't control compensation, such as IHSS aide positions.
 
-# SKILLZ & STUFF
+# Other misc rules
 
 Skill sharing is awesome, but self-promotional posts will be declined, unless you are offering your skill for trade/barter. Posts seeking someone with a specific skill set for a community project or personal project are welcome.
 
