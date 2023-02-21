@@ -30,7 +30,7 @@ The moderators are:
 
 The server host is [riseup](https://riseup.net/). Their computers send and receive mail using an old version of [sympa](https://sympa-community.github.io/).
 
-# How to post
+# How to post?
 
 Email your post to [sfchalkboard@lists.riseup.net](mailto:sfchalkboard@lists.riseup.net)
 * **Double check** the address! A common mistake is to send to "sfchalkboard-request", which won't go to the list.
@@ -39,6 +39,8 @@ Email your post to [sfchalkboard@lists.riseup.net](mailto:sfchalkboard@lists.ris
 * **Address the Chalkies group** in your message body - this discourages cross-posting and keeps content unique and personalized
 * **No large attachments**
 * **Room openings** must include full cost of the room (rent, utilities, and any other mandatory costs) in the subject line - see [below](#rooms)
+
+# How to reply?
 
 When replying to posts:
 * If you reply to a message using digest mode, please try to edit the quote text and subject
