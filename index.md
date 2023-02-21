@@ -38,7 +38,7 @@ Email your post to [sfchalkboard@lists.riseup.net](mailto:sfchalkboard@lists.ris
 * Write a **full email body** including all relevant content. Posts without much more than a link will be rejected!
 * **Address the Chalkies group** in your message body - this discourages cross-posting and keeps content unique and personalized
 * **No large attachments**
-* We have special rules for posts about [housing](#rooms), anything involving [money](#monie)
+* We have special rules for posts about [housing](#rooms), anything involving [money](#money)
 
 # How to reply?
 
@@ -77,7 +77,7 @@ Examples of a good post:
 * anything racist, sexist, homophobic, transphobic, ageist, etc
 * anything promoting destructive technologies like bitcoin
 
-# Monie$
+# Money
 
 The list accepts posts regarding goods, workshops & events that cost money, as long as money alternatives are offered, ie: work trade, no one turned away for lack of funds, suggested donation, trade/barter. For example:
 > Hi Chalkies, our co-op is offering a \_\_\_\_\_\_\_\_\_ workshop, its a 15.00 suggested donation for materials but no one will be turned away for lack of funds, here are all of the logistics and details
