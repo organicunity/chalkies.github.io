@@ -131,7 +131,7 @@ These would be OK:
 {:.do}
 EXCEPTION: Since there are many list members with businesses, and other list members who may want to support these businesses, each business is allowed ONE commercial post, ever. It can't sound like an ad. This is an experimental policy and if the Chalk starts to sound like Indie Craigslist, it will be rethought.
 
-# I don't see my own post - did it go through?
+# Was my post sent?
 
 Probably, unless you got a rejection notice. When in doubt, check the list archive. Some programs (like gmail) will not display the received version of a mail you sent, because they mark it as a duplicate.
 
