@@ -38,7 +38,7 @@ Email your post to [sfchalkboard@lists.riseup.net](mailto:sfchalkboard@lists.ris
 * Write a **full email body** including all relevant content. Posts without much more than a link will be rejected!
 * **Address the Chalkies group** in your message body - this discourages cross-posting and keeps content unique and personalized
 * **No large attachments**
-* We have special rules for posts about [housing](#Rooms), anything involving [money](#Monie$)
+* We have special rules for posts about [housing](#rooms), anything involving [money](#monie)
 
 # How to reply?
 
@@ -54,7 +54,7 @@ When replying to posts:
 
 Yes! It's an email list. Your name and email will be at the top.
 
-If you'd like to post anonymously, [contact a mod](# Who runs it?) and one of us can send it for you. Or you can just say at the top of your email that you want to be anonymous. Then a mod can copy the text of your message and then reject the original.
+If you'd like to post anonymously, [contact a mod](#who-runs-it) and one of us can send it for you. Or you can just say at the top of your email that you want to be anonymous. Then a mod can copy the text of your message and then reject the original.
 
 # Can I delete a post?
 
@@ -62,7 +62,7 @@ No, sorry. We can delete it from the archives, but once everybody has received t
 
 # What to post
 
-* Room openings
+* [Room openings](#rooms)
 * Community events
 * Parties, potlucks
 * Discussion groups
@@ -72,7 +72,10 @@ Examples of a good post:
 > Chalkboard community - there’s this protest in SF downtown tomorrow. We’d love your support, here are all of the logistics and details.
 {:.do}
 
-* you must not be racist, sexist, homophobic, transphobic, ageist, etc
+# What not to post
+
+* anything racist, sexist, homophobic, transphobic, ageist, etc
+* anything promoting destructive technologies like bitcoin
 
 # Monie$
 
