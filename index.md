@@ -38,7 +38,7 @@ Email your post to [sfchalkboard@lists.riseup.net](mailto:sfchalkboard@lists.ris
 * Write a **full email body** including all relevant content. Posts without much more than a link will be rejected!
 * **Address the Chalkies group** in your message body - this discourages cross-posting and keeps content unique and personalized
 * **No large attachments**
-* **Room openings** must include full cost of the room (rent, utilities, and any other mandatory costs) in the subject line - see [below](#rooms)
+* We have special rules for posts about [housing](#Rooms), anything involving [money](#Monie$)
 
 # How to reply?
 
@@ -72,6 +72,8 @@ Examples of a good post:
 > Chalkboard community - there’s this protest in SF downtown tomorrow. We’d love your support, here are all of the logistics and details.
 {:.do}
 
+* you must not be racist, sexist, homophobic, transphobic, ageist, etc
+
 # Monie$
 
 The list accepts posts regarding goods, workshops & events that cost money, as long as money alternatives are offered, ie: work trade, no one turned away for lack of funds, suggested donation, trade/barter. For example:
@@ -83,25 +85,19 @@ Posts that are clearly for profit or promoting a for-profit activity (of either 
 
 # Rooms
 
-> Hi SFChalkboard, There's a room available in our co-op starting May 15th…
-{:.do}
-> Hello Lovely Chalkies, I’m wanting to start a new co-op housing in San Francisco with a group of mindful people…, contact me directly and let’s see how we can make use of our resources to co-create...
-{:.do}
-SFChalkboard is for intentional, cooperative, community-style housing and co-operatives. Housing posts can include anything from a shared one bedroom to a million people collective, as long as there is an intention of fostering relationships and some form of communal living. SFChalkboard is committed to radical inclusivity and posts that are discriminatory will be rejected from the list
-
-The kinds of posts that would not meet these criteria:
-* Looking for somewhere to live, with no interest in exploring and supporting some form of intentional community
-* Offering a room in a residence that is not community-oriented
-* no colorblind housing posts (housing posts must state the races of current housemates, either individually or collectively, with an exception for ambiguously racialized folks who may explicitly opt out).
-* no age requirements in housing, explicit or implicit - any post which states the ages of current housemates must note that applicants of all ages are welcome (which of course has to be true!).
-
-For room rentals, please include the full cost of the room (rent, utilities, and any other mandatory costs) in the subject line. If you're posting multiple rooms, you can include a range, like: "3 Rooms in Amazing House $3-500 + $50 utilities"
-
-Please include all the above required information in the email that goes out to the list itself, rather than directing people to an external post, like a Craigslist posting. List members should be able to satisfy the most pertinent questions that the above requirements seek to answer without having to follow a link.
+If you're a house looking for people:
+* the **subject line must include the full cost** of the room (rent, utilities, and any other mandatory costs), or a range for multiple rooms, like "$3-500 + $50 utilities"
+* you must **tell us if your house is mostly white** or all white, so BIPOC applicants have the option of avoiding these houses
+* you must **not have age requirements**, and if you list your own ages you must **say you're open to all ages** (and mean it)
+* the house must be communal, community-oriented, intentional or cooperative in some way, ie you want the person and not just their money
+* you should tell us the move-in dates (and move-out, if subletting)
+* you should include all this info in your actual email, not just link to an external/craigslist post
 
 # Jobs
 
-When posting a job opportunity, please include the pay or pay range in the subject line. SFChalkboard's minimum wage is $20/hr or equivalent.
+if you're posting a job opportunity:
+* the **subject must include pay or pay range**
+* the job must pay **at least $20/hr** or equivalent
 
 We do accept postings for work trade, internships, and other positions which don't involve a conventional paycheck, but workers must still be compensated fairly in some way - college credit, workshop participation, stock options, use your imagination. Exceptions are often made for jobs where you, the poster, don't control compensation, such as IHSS aide positions.
 
