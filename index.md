@@ -137,7 +137,7 @@ Probably, unless you got a rejection notice. When in doubt, check the list archi
 
 # How many chalkies are there?
 
-As of February 2022, there are ~3400 subscribers
+As of February 2023, there are ~3600 subscribers
 
 # Who made this website?
 
