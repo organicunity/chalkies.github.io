@@ -6,11 +6,11 @@ tagline: All about SF Chalkboard
 
 # What's a chalky?
 
-Chalkies are anyone on the [sfchalkboard](https://lists.riseup.net/www/info/sfchalkboard) mailing list.
+Chalkies are anyone on [SF Chalkboard](https://lists.riseup.net/www/info/sfchalkboard), a mailing list for cooperative living in the San Francisco bay area.
 
-# What's the list for?
+It's meant to strengthen ties between cooperative houses, collectives, activists and other intentional communities. To know what's going on in our wider world. It's the chalkboard in our collective kitchen.
 
-[SF Chalkboard](https://lists.riseup.net/www/info/sfchalkboard) is a mailing list for cooperative living in the San Francisco bay area. It's meant to strengthen ties between cooperative houses, collectives, activists and other intentional communities. To know what's going on in our wider world. It's the chalkboard in our collective kitchen.
+As of February 2023, there are ~3600 subscribers
 
 # How do I join?
 
@@ -18,17 +18,9 @@ Go to [our info page](https://lists.riseup.net/www/info/sfchalkboard), click sub
 
 [This page](https://lists.riseup.net/www/help/introduction) explains how mailing lists work
 
-# Do I need to live in a co-op?
+# Who can join?
 
-Nope! The list is for anybody interested in living in an inclusive and supportive community that values cooperation, mutual aid, fun, and meaningful change. Anyone can join and post, whether they live in a co-op or not.
-
-# Who runs it?
-
-The moderators are:
-* [Yardena Cohen](https://yar.gay/) aka "yar" [<yardenack@gmail.com>](mailto:yardenack@gmail.com)
-* others who have not yet consented to be named here
-
-The server host is [riseup](https://riseup.net/). Their computers send and receive mail using an old version of [sympa](https://sympa-community.github.io/).
+The list is for anybody interested in living in an inclusive and supportive community that values cooperation, mutual aid, fun, and meaningful change. Anyone can join and post, whether they live in a co-op or not.
 
 # How to post?
 
@@ -41,6 +33,18 @@ Email your post to [sfchalkboard@lists.riseup.net](mailto:sfchalkboard@lists.ris
 * Think carefully before you send your email - once moderators approve it, [we cannot delete it!](#can-i-delete-a-post)
 * We have special rules for posts about [housing](#rooms), or anything involving [money](#money)
 
+Your post can include things like:
+* [Room openings](#rooms)
+* Community events
+* Rallies, protests
+* Parties, potlucks
+* Discussion groups
+* Resources, skillshares
+
+Your post must not include:
+* anything racist, sexist, homophobic, transphobic, ageist, etc
+* anything promoting destructive technologies like bitcoin
+
 # How to reply?
 
 When replying to posts:
@@ -51,32 +55,21 @@ When replying to posts:
     {:.do}
 * Riseup has a bug which fails to display the author's email address in some cases - digest users will not be able to see it, and the web archives will not show it either. We have reported this bug to riseup, but they will probably take a very long time to fix it. Sorry! If you're a digest user and you want to send a private reply, send it to [sfchalkboard-editors](mailto:sfchalkboard-editors@lists.riseup.net) and the moderators will put you in touch.
 
-# Will people know who I am?
+# Can I hide my name?
 
-Yes! It's an email list. Your name and email will be at the top.
+Whatever name your email software uses, it will be at the top of the post. If you don't want to show your name, you should configure your email software to not show it.
 
-If you'd like to post anonymously, [contact a mod](#who-runs-it) and one of us can send it for you. Or you can just say at the top of your email that you want to be anonymous. Then a mod can copy the text of your message and then reject the original.
+You cannot hide your email address. If you want to be fully anonymous, you will need to create a separate email address and use that.
+
+Alternatively, you can [contact a mod](#who-runs-it) and one of us can send it for you. Or you can just say at the top of your email that you want it to be anonymous. Then a mod can copy the text of your message and then reject the original.
 
 # Can I delete a post?
 
 No, sorry. We can delete it from the archives, but once everybody has received the email, we cannot delete it from their inboxes.
 
-# What to post
+# Was my post sent?
 
-* [Room openings](#rooms)
-* Community events
-* Parties, potlucks
-* Discussion groups
-* Resources, skillshares
-
-Examples of a good post:
-> Chalkboard community - there’s this protest in SF downtown tomorrow. We’d love your support, here are all of the logistics and details.
-{:.do}
-
-# What not to post
-
-* anything racist, sexist, homophobic, transphobic, ageist, etc
-* anything promoting destructive technologies like bitcoin
+Probably, unless you got a rejection notice. When in doubt, check the list archive. Some programs (like gmail) will not display the received version of a mail you sent, because they mark it as a duplicate.
 
 # Money
 
@@ -132,14 +125,12 @@ These would be OK:
 {:.do}
 EXCEPTION: Since there are many list members with businesses, and other list members who may want to support these businesses, each business is allowed ONE commercial post, ever. It can't sound like an ad. This is an experimental policy and if the Chalk starts to sound like Indie Craigslist, it will be rethought.
 
-# Was my post sent?
+# Who runs it?
 
-Probably, unless you got a rejection notice. When in doubt, check the list archive. Some programs (like gmail) will not display the received version of a mail you sent, because they mark it as a duplicate.
+The moderators are:
+* [Yardena Cohen](https://yar.gay/) aka "yar" [<yardenack@gmail.com>](mailto:yardenack@gmail.com)
+* others who have not yet consented to be named here
 
-# How many chalkies are there?
+The server host is [riseup](https://riseup.net/). Their computers send and receive mail using an old version of [sympa](https://sympa-community.github.io/).
 
-As of February 2023, there are ~3600 subscribers
-
-# Who made this website?
-
-The source code is [on github](https://github.com/chalkies/chalkies.github.io) and you can view the [contributers list](https://github.com/chalkies/chalkies.github.io/graphs/contributors). Anybody can [make/propose edits](https://github.com/chalkies/chalkies.github.io/edit/main/index.md)! You don't need to understand git or html, only [markdown](https://www.markdownguide.org/basic-syntax) and a [github account](https://github.com/login).
+This website's source code is [on github](https://github.com/chalkies/chalkies.github.io) and you can view the [contributers list](https://github.com/chalkies/chalkies.github.io/graphs/contributors). Anybody can [make/propose edits](https://github.com/chalkies/chalkies.github.io/edit/main/index.md)! You don't need to understand git or html, only [markdown](https://www.markdownguide.org/basic-syntax) and a [github account](https://github.com/login).
