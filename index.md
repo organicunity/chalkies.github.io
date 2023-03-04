@@ -38,7 +38,8 @@ Email your post to [sfchalkboard@lists.riseup.net](mailto:sfchalkboard@lists.ris
 * Write a **full email body** including all relevant content. Posts without much more than a link will be rejected!
 * **Address the Chalkies group** in your message body - this discourages cross-posting and keeps content unique and personalized
 * **No large attachments**
-* We have special rules for posts about [housing](#rooms), anything involving [money](#money)
+* Think carefully before you send your email - once moderators approve it, [we cannot delete it!](#can-i-delete-a-post)
+* We have special rules for posts about [housing](#rooms), or anything involving [money](#money)
 
 # How to reply?
 
