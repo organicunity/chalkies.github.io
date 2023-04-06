@@ -125,6 +125,11 @@ These would be OK:
 {:.do}
 EXCEPTION: Since there are many list members with businesses, and other list members who may want to support these businesses, each business is allowed ONE commercial post, ever. It can't sound like an ad. This is an experimental policy and if the Chalk starts to sound like Indie Craigslist, it will be rethought.
 
+# Other lists
+
+We often get asked about similar & active lists in other regions. Here are the ones we know about:
+* [Boston Cooperative Network](https://lists.bostoncoop.net/mailman/listinfo/bcn)
+
 # Who runs it?
 
 The moderators are:
