@@ -134,6 +134,7 @@ We often get asked about similar & active lists in other regions. Here are the o
 
 The moderators are:
 * [Yardena Cohen](https://yar.gay/) aka "yar" [<yardenack@gmail.com>](mailto:yardenack@gmail.com)
+* [Leslie Bienenfeld](https://github.com/lesliehoneybeefield) [<lbienenfeld@gmail.com>](mailto:lbienenfeld@gmail.com)
 * others who have not yet consented to be named here
 
 The server host is [riseup](https://riseup.net/). Their computers send and receive mail using an old version of [sympa](https://sympa-community.github.io/).
