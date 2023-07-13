@@ -102,6 +102,7 @@ For events that cost money, see [the money section](#money)
 
 If you're asking for money in exchange for something, you must either
 * offer alternatives such as work trade, [notaflof](https://en.wiktionary.org/wiki/NOTAFLOF), suggested donation, [timebank hours](https://timebank.sfbace.org/), or trade/barter
+
 OR
 * have not posted any other for-profit activity recently - we've been letting people advertise their businesses maybe once every year or two, as an experiment, but if the Chalk starts to sound like Indie Craigslist, this may change
 
