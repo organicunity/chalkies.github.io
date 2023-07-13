@@ -134,6 +134,7 @@ EXCEPTION: Since there are many list members with businesses, and other list mem
 
 We often get asked about similar & active lists in other regions. Here are the ones we know about:
 * [Boston Cooperative Network](https://lists.bostoncoop.net/mailman/listinfo/bcn)
+* [DC Lovers of Living Together](https://groups.google.com/g/lovers_of_living_together)
 
 # Who runs it?
 
