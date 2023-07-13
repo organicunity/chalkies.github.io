@@ -83,6 +83,7 @@ If you're a house looking for people:
 * the **subject line must include the full cost** of the room (rent, utilities, and any other mandatory costs), or a range for multiple rooms, like "$3-500 + $50 utilities"
 * you must **tell us if your house is mostly white** or all white, so BIPOC applicants have the option of avoiding these houses
 * you must **not have age requirements**, and if you list your own ages you must **say you're open to all ages** (and mean it), except maybe if you really need to exclude <18
+* you must say **how wheelchair accessible** the house and room are
 * the house must be communal, community-oriented, intentional or cooperative in some way, ie you want the person and not just their money
 * you should tell us the move-in dates (and move-out, if subletting)
 * you should include all this info in your actual email, not just link to an external/craigslist post
