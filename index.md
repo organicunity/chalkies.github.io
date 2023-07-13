@@ -56,8 +56,8 @@ When replying to posts:
 
 # Digest
 
-We strongly recommend to not use digest mode. It sucks. Instead, we recommend you subscribe to individual emails, and use filters in your email client to manage the them. But if you absolutely must use digest mode, please note:
-* If you reply to a message digest, please try to edit the quote text and subject.
+We strongly recommend to not use digest mode. It sucks. Instead, we recommend you subscribe to individual emails, and use filters in your email client to manage them. If you absolutely must use digest mode, please note:
+* When you reply to a message digest, please try to edit the quote text and subject.
 * Riseup has a bug which fails to display the author's email address in some cases - digest users will not be able to see it, and the web archives will not show it either. We have reported this bug to riseup, but they will probably take a very long time to fix it. Sorry! If you're a digest user and you want to send a private reply, send it to [sfchalkboard-editors](mailto:sfchalkboard-editors@lists.riseup.net) and the moderators will put you in touch.
 
 # Can I hide my name?
@@ -143,6 +143,7 @@ The moderators are:
 * [Leslie Bienenfeld](https://github.com/lesliehoneybeefield) [<lbienenfeld@gmail.com>](mailto:lbienenfeld@gmail.com)
 * others who have not yet consented to be named here
 * you can contact all the mods at once, by emailing [<sfchalkboard-admin@lists.riseup.net>](mailto:sfchalkboard-admin@lists.riseup.net)
+* we want more mods! please contact us if you'd like to help!
 
 The server host is [riseup](https://riseup.net/). Their computers send and receive mail using an old version of [sympa](https://sympa-community.github.io/).
 
