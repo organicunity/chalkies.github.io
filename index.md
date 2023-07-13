@@ -10,7 +10,7 @@ Chalkies are anyone on [SF Chalkboard](https://lists.riseup.net/www/info/sfchalk
 
 It's meant to strengthen ties between cooperative houses, collectives, activists and other intentional communities. To know what's going on in our wider world. It's the chalkboard in our collective kitchen.
 
-As of February 2023, there are ~3600 subscribers
+As of July 2023, there are 3717 subscribers
 
 # How do I join?
 
