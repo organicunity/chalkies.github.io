@@ -31,19 +31,20 @@ Email your post to [sfchalkboard@lists.riseup.net](mailto:sfchalkboard@lists.ris
 * **Address the Chalkies group** in your message body - this discourages cross-posting and keeps content unique and personalized
 * **No large attachments**
 * Think carefully before you send your email - once moderators approve it, [we cannot delete it!](#can-i-delete-a-post)
-* We have special rules for posts about [housing](#rooms), or anything involving [money](#money)
+* We have special rules for posts about [housing](#rooms), [events](#events) or anything involving [money](#money)
 
 Your post can include things like:
 * [Room openings](#rooms)
-* Community events
+* [Community events](#events)
 * Rallies, protests
 * Parties, potlucks
 * Discussion groups
 * Resources, skillshares
 
-Your post must not include:
-* anything racist, sexist, homophobic, transphobic, ageist, etc
-* anything promoting destructive technologies like bitcoin
+Your post must not include anything:
+* racist, sexist, homophobic, transphobic, ageist, etc
+* promoting destructive technologies like bitcoin
+* far away from the bay area, without some local aspect or relationship
 
 # How to reply?
 
@@ -76,15 +77,6 @@ No, sorry. We can delete it from the archives, but once everybody has received t
 
 Probably, unless you got a rejection notice. When in doubt, check the list archive. Some programs (like gmail) will not display the received version of a mail you sent, because they mark it as a duplicate.
 
-# Money
-
-The list accepts posts regarding goods, workshops & events that cost money, as long as money alternatives are offered, ie: work trade, no one turned away for lack of funds, suggested donation, trade/barter. For example:
-> Hi Chalkies, our co-op is offering a \_\_\_\_\_\_\_\_\_ workshop, its a 15.00 suggested donation for materials but no one will be turned away for lack of funds, here are all of the logistics and details
-{:.do}
-> Hi Chalk board friends, I’d like to trade my car for a bicycle, i’m also willing to consider hours trades from folks on timebank.sfbace.org or earn.timebanks.org…
-{:.do}
-Posts that are clearly for profit or promoting a for-profit activity (of either a business or individual) AND/OR do not offer any of the above payment options will be declined.
-
 # Rooms
 
 If you're a house looking for people:
@@ -97,38 +89,30 @@ If you're a house looking for people:
 
 If you're a person looking for a house, we are way more chill about these things, because that's hard enough already.
 
-# Jobs
+# Events
 
-if you're posting a job opportunity:
-* the **subject must include pay or pay range**
+When you post a workshop or event, please tell us:
+* what covid safety requirements you will enforce
+* whether and how disabled people - eg blind or deaf or wheelchair users - can access it
+
+For events that cost money, see [the money section](#money)
+
+# Money
+
+If you're asking for money in exchange for something, you must either
+* offer alternatives such as work trade, [notaflof](https://en.wiktionary.org/wiki/NOTAFLOF), suggested donation, [timebank hours](https://timebank.sfbace.org/), or trade/barter
+OR
+* have not posted any other for-profit activity recently - we've been letting people advertise their businesses maybe once every year or two, as an experiment, but if the Chalk starts to sound like Indie Craigslist, this may change
+
+If the money you're asking for is not actually profitable for you - but only to cover cost and expenses - then it helps to explain that in your post. We presume this is true for housing posts from non-landlords.
+
+if you're offering money in exchange for something (like a job opportunity):
+* the **subject must include pay or pay range** where possible
 * the job must pay **at least $20/hr** or equivalent
 
 We do accept postings for work trade, internships, and other positions which don't involve a conventional paycheck, but workers must still be compensated fairly in some way - college credit, workshop participation, stock options, use your imagination. Exceptions are often made for jobs where you, the poster, don't control compensation, such as IHSS aide positions.
 
-# Other misc rules
-
-Skill sharing is awesome, but self-promotional posts will be declined, unless you are offering your skill for trade/barter. Posts seeking someone with a specific skill set for a community project or personal project are welcome.
-
-Giving away stuff is cool.
-
-Requesting specific stuff is cool for for a community project, but not for a personal project (please make the difference clear for the mods who are reviewing your message).
-
-These would ***NOT*** be ok:
-> I’m a photographer specializing in nudes and am expanding my services to include pets. I offer very low rates for chalksters. Please call me to arrange an appointment.
-{:.dont}
-
-> I’m unemployed, attached is my resume, I’m willing to work for minimum wage.
-{:.dont}
-
-> I need some canning supplies. Anyone have any they want to give away?
-{:.dont}
-
-These would be OK:
-> Food Not Bombs needs some canning supplies.
-{:.do}
-> Does anyone know of a local resource for low-cost or free canning supplies?
-{:.do}
-EXCEPTION: Since there are many list members with businesses, and other list members who may want to support these businesses, each business is allowed ONE commercial post, ever. It can't sound like an ad. This is an experimental policy and if the Chalk starts to sound like Indie Craigslist, it will be rethought.
+Giving away free stuff is always cool. Requests for free stuff may get a little more scrutiny, but it's probably ok.
 
 # Other lists
 
