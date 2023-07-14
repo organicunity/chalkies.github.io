@@ -106,7 +106,7 @@ If you're asking for money in exchange for something, at least one of these must
 * ***OR*** it's your first ad in a long time. ie you have not posted any other for-profit activity recently. we've been letting people advertise their businesses maybe once every year or two, as an experiment, but if the Chalk starts to sound like Indie Craigslist, this may change
 
 if you're offering money in exchange for something (like a job opportunity):
-* the **subject must include pay or pay range** where possible
+* the **subject must include pay or pay range** when possible. obviously you don't always know what the market rate is, like when asking for advice or recommendations for a one-off job
 * the job must pay **at least $20/hr** or equivalent (such as a fair work trade, college credit, stock options, or something else creative), with very limited exceptions (ie IHSS aides since it's not under your control)
 
 Giving away free stuff is always cool. Requests for free stuff may get a little more scrutiny, but it's probably ok.
