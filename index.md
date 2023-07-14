@@ -100,19 +100,14 @@ For events that cost money, see [the money section](#money)
 
 # Money
 
-If you're asking for money in exchange for something, you must either
-* offer alternatives such as work trade, [notaflof](https://en.wiktionary.org/wiki/NOTAFLOF), suggested donation, [timebank hours](https://timebank.sfbace.org/), or trade/barter
-
-OR
-* have not posted any other for-profit activity recently - we've been letting people advertise their businesses maybe once every year or two, as an experiment, but if the Chalk starts to sound like Indie Craigslist, this may change
-
-If the money you're asking for is not actually profitable for you - but only to cover cost and expenses - then it helps to explain that in your post. We presume this is true for housing posts from non-landlords.
+If you're asking for money in exchange for something, at least one of these must be true:
+* you're not profiting, it only covers cost and expenses. we presume this is true for housing posts from non-landlords, or people selling things they previously bought
+* ***OR*** you offer alternatives such as work trade, [notaflof](https://en.wiktionary.org/wiki/NOTAFLOF), suggested donation, [timebank hours](https://timebank.sfbace.org/), or trade/barter
+* ***OR*** it's your first ad in a long time. ie you have not posted any other for-profit activity recently. we've been letting people advertise their businesses maybe once every year or two, as an experiment, but if the Chalk starts to sound like Indie Craigslist, this may change
 
 if you're offering money in exchange for something (like a job opportunity):
 * the **subject must include pay or pay range** where possible
-* the job must pay **at least $20/hr** or equivalent
-
-We do accept postings for work trade, internships, and other positions which don't involve a conventional paycheck, but workers must still be compensated fairly in some way - college credit, workshop participation, stock options, use your imagination. Exceptions are often made for jobs where you, the poster, don't control compensation, such as IHSS aide positions.
+* the job must pay **at least $20/hr** or equivalent (such as a fair work trade, college credit, stock options, or something else creative), with very limited exceptions (ie IHSS aides since it's not under your control)
 
 Giving away free stuff is always cool. Requests for free stuff may get a little more scrutiny, but it's probably ok.
 
