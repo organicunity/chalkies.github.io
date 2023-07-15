@@ -45,6 +45,7 @@ Your post must not include anything:
 * racist, sexist, homophobic, transphobic, ageist, etc
 * promoting destructive technologies like bitcoin
 * far away from the bay area, without some local aspect or relationship
+* inaccessible to blind users - please transcribe or caption all images
 
 # How to reply?
 
@@ -86,6 +87,7 @@ If you're a house looking for people:
 * you must say **how wheelchair accessible** the house and room are
 * the house must be communal, community-oriented, intentional or cooperative in some way, ie you want the person and not just their money
 * you should tell us the move-in dates (and move-out, if subletting)
+* you should tell us what pets you have (for allergies) and what pets you can allow
 * you should include all this info in your actual email, not just link to an external/craigslist post
 
 If you're a person looking for a house, we are way more chill about these things, because that's hard enough already.
