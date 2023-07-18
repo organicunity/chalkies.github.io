@@ -6,7 +6,7 @@ tagline: All about SF Chalkboard
 
 # What's a chalky?
 
-Chalkies are anyone on [SF Chalkboard](https://lists.riseup.net/www/info/sfchalkboard), a mailing list for cooperative living in the San Francisco bay area.
+Chalkies are anyone on [SF Chalkboard](https://lists.riseup.net/www/info/sfchalkboard), a mailing list for community and cooperative living in the San Francisco bay area.
 
 It's meant to strengthen ties between cooperative houses, collectives, activists and other intentional communities. To know what's going on in our wider world. It's the chalkboard in our collective kitchen.
 
@@ -42,7 +42,7 @@ Your post can include things like:
 * Resources, skillshares
 
 Your post must not include anything:
-* racist, sexist, homophobic, transphobic, ageist, etc
+* racist, sexist, homophobic, transphobic, ageist, ableist, etc
 * promoting destructive technologies like bitcoin
 * far away from the bay area, without some local aspect or relationship
 * inaccessible to blind users - please transcribe or caption all images
@@ -124,10 +124,10 @@ We often get asked about similar & active lists in other regions. Here are the o
 The moderators are:
 * [Yardena Cohen](https://yar.gay/) aka "yar" [<yardenack@gmail.com>](mailto:yardenack@gmail.com)
 * [Leslie Bienenfeld](https://github.com/lesliehoneybeefield) [<lbienenfeld@gmail.com>](mailto:lbienenfeld@gmail.com)
-* others who have not yet consented to be named here
+* Zach [<artistic_revolution@live.com>](mailto:artistic_revolution@live.com)
 * you can contact all the mods at once, by emailing [<sfchalkboard-admin@lists.riseup.net>](mailto:sfchalkboard-admin@lists.riseup.net)
 * we want more mods! please contact us if you'd like to help!
 
-The server host is [riseup](https://riseup.net/). Their computers send and receive mail using an old version of [sympa](https://sympa-community.github.io/).
+The server host is [riseup](https://riseup.net/). Their computers send and receive mail using an old version of [sympa](https://sympa-community.github.io/). They are volunteer run, and supported by [donations](https://riseup.net/en/donate).
 
 This website's source code is [on github](https://github.com/chalkies/chalkies.github.io) and you can view the [contributers list](https://github.com/chalkies/chalkies.github.io/graphs/contributors). Anybody can [make/propose edits](https://github.com/chalkies/chalkies.github.io/edit/main/index.md)! You don't need to understand git or html, only [markdown](https://www.markdownguide.org/basic-syntax) and a [github account](https://github.com/login).
