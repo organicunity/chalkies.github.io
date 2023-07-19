@@ -124,7 +124,7 @@ We often get asked about similar & active lists in other regions. Here are the o
 The moderators are:
 * [Yardena Cohen](https://yar.gay/) aka "yar" [<yardenack@gmail.com>](mailto:yardenack@gmail.com)
 * [Leslie Bienenfeld](https://github.com/lesliehoneybeefield) [<lbienenfeld@gmail.com>](mailto:lbienenfeld@gmail.com)
-* Zach [<artistic_revolution@live.com>](mailto:artistic_revolution@live.com)
+* [Zach <artistic_revolution@live.com>](mailto:artistic_revolution@live.com)
 * you can contact all the mods at once, by emailing [<sfchalkboard-admin@lists.riseup.net>](mailto:sfchalkboard-admin@lists.riseup.net)
 * we want more mods! please contact us if you'd like to help!
 
