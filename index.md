@@ -18,6 +18,8 @@ Go to [our info page](https://lists.riseup.net/www/info/sfchalkboard), click sub
 
 [This page](https://lists.riseup.net/www/help/introduction) explains how mailing lists work
 
+Once you join, you can read and search the [archives](https://lists.riseup.net/www/arc/sfchalkboard)
+
 # Who can join?
 
 The list is for anybody interested in living in an inclusive and supportive community that values cooperation, mutual aid, fun, and meaningful change. Anyone can join and post, whether they live in a co-op or not.
