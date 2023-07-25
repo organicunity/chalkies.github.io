@@ -62,7 +62,7 @@ When replying to posts:
 
 We strongly recommend to not use digest mode. It sucks. Instead, we recommend you subscribe to individual emails, and use filters in your email client to manage them, like with [gmail](https://support.google.com/mail/answer/6579) or [outlook](https://support.microsoft.com/en-gb/office/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59) or [apple](https://support.apple.com/guide/icloud/set-up-filtering-rules-mm6b1a3f8a/icloud). If you absolutely must use digest mode, please note:
 * When you reply to a message digest, please try to edit the quote text and subject.
-* Riseup has a bug which fails to display the author's email address in some cases - digest users will not be able to see it, and the web archives will not show it either. We have reported this bug to riseup, but they will probably take a very long time to fix it. Sorry! If you're a digest user and you want to send a private reply, send it to [sfchalkboard-editors](mailto:sfchalkboard-editors@lists.riseup.net) and the moderators will put you in touch.
+* Riseup has a bug which fails to display the author's email address in some cases - digest users will not be able to see it, and the web archives will not show it either. We have reported this bug to riseup, but they will probably take a very long time to fix it. Sorry! If you're a digest user and you want to send a private reply, [email the mods](https://chalkies.website/#who-runs-it) and we'll put you in touch.
 
 # Can I hide my name?
 
