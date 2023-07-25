@@ -125,7 +125,7 @@ The moderators are:
 * [Yardena Cohen](https://yar.gay/) aka "yar" [<yardenack@gmail.com>](mailto:yardenack@gmail.com)
 * [Leslie Bienenfeld](https://github.com/lesliehoneybeefield) [<lbienenfeld@gmail.com>](mailto:lbienenfeld@gmail.com)
 * [Zach <artistic_revolution@live.com>](mailto:artistic_revolution@live.com)
-* you can contact all the mods at once, by emailing [<sfchalkboard-admin@lists.riseup.net>](mailto:sfchalkboard-admin@lists.riseup.net)
+* you can contact all the mods at once, by emailing [<sfchalkboard-editor@lists.riseup.net>](mailto:sfchalkboard-editor@lists.riseup.net)
 * we want more mods! please contact us if you'd like to help!
 
 The server host is [riseup](https://riseup.net/). Their computers send and receive mail using an old version of [sympa](https://sympa-community.github.io/). They are volunteer run, and supported by [donations](https://riseup.net/en/donate).
