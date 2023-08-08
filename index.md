@@ -121,6 +121,20 @@ We often get asked about similar & active lists in other regions. Here are the o
 * [Boston Cooperative Network](https://lists.bostoncoop.net/mailman/listinfo/bcn)
 * [DC Lovers of Living Together](https://groups.google.com/g/lovers_of_living_together)
 
+# Can I help?
+
+Yes please! Mods' work generally includes:
+* Less than 1 hour a week
+* Approve posts as they come in, or reject and talk to the sender about it
+* Make this website better, fix the rules when they suck
+* Keep things real, scare away abusers & gentrified bullshit
+* Sit back and live your life sometimes even when messages pile up
+* Don't be a cop or work with cops, interpreted loosely
+
+If you'd like to join the team, you should:
+* Read this whole website
+* [Email us](#who-runs-it) to schedule a chat so we can ~~vet~~ get to know you
+
 # Who runs it?
 
 The moderators are:
@@ -128,7 +142,6 @@ The moderators are:
 * [Leslie Bienenfeld](https://github.com/lesliehoneybeefield) [<lbienenfeld@gmail.com>](mailto:lbienenfeld@gmail.com)
 * [Zach <artistic_revolution@live.com>](mailto:artistic_revolution@live.com)
 * you can contact all the mods at once, by emailing [<sfchalkboard-editor@lists.riseup.net>](mailto:sfchalkboard-editor@lists.riseup.net)
-* we want more mods! please contact us if you'd like to help!
 
 The server host is [riseup](https://riseup.net/). Their computers send and receive mail using an old version of [sympa](https://sympa-community.github.io/). They are volunteer run, and supported by [donations](https://riseup.net/en/donate).
 
